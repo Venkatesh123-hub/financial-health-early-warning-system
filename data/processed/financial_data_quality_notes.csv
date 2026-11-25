@@ -1,0 +1,7 @@
+ticker,fiscal_year,metric,status,details,source
+MSFT,2021,short_term_debt,Provisional,Current portion of long-term debt confirmed. Other short-term borrowings not independently confirmed.,https://www.microsoft.com/investor/reports/ar22/
+MSFT,2022,short_term_debt,Provisional,Current portion of long-term debt confirmed. Commercial paper not separately reported.,https://www.microsoft.com/investor/reports/ar22/
+GOOGL,2021,long_term_debt,Calculated - pending source review,"Calculated noncurrent borrowings of 12844 million USD, excluding finance leases.",https://www.sec.gov/Archives/edgar/data/1652044/000165204423000016/goog-20221231.htm
+GOOGL,2022,long_term_debt,Calculated - pending source review,"Calculated noncurrent borrowings of 12857 million USD, excluding finance leases.",https://www.sec.gov/Archives/edgar/data/1652044/000165204423000016/goog-20221231.htm
+ALL,ALL,debt_definition,Source review required,Debt metrics aim to exclude finance leases. Cross-company comparability requires additional verification.,SEC EDGAR Company Facts and annual reports
+ALL,ALL,financial_data,Conditional pass,All implemented accounting checks passed. Data completeness does not establish independent source accuracy.,Financial validation report
