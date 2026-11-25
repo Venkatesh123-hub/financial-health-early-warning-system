@@ -1,0 +1,46 @@
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Sensitive information
+.env
+.env.*
+!.env.example
+credentials.json
+secrets.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Testing cache
+.pytest_cache/
+.coverage
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary Excel files
+~$*.xlsx
+
+# Log files
+*.log
+
+# Temporary database files
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Temporary files
+*.tmp
+*.bak
