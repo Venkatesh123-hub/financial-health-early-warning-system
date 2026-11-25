@@ -44,3 +44,5 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+# Raw SEC EDGAR datasets
+data/raw/*.json
